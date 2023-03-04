@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateCustomer]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-04T06:13:29Z" name="Default suite" finished-at="2023-03-04T06:13:30Z" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2023-03-04T06:13:29Z" name="Default test" finished-at="2023-03-04T06:13:30Z" duration-ms="100">
+      <class name="com.actitime.testscript.CustomerModule">
+        <test-method signature="CusterModule()[pri:0, instance:com.actitime.testscript.CustomerModule@248e319b]" started-at="2023-03-04T06:13:30Z" name="CusterModule" finished-at="2023-03-04T06:13:30Z" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateCustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CusterModule -->
+      </class> <!-- com.actitime.testscript.CustomerModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
